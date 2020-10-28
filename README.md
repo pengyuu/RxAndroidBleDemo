@@ -6,19 +6,19 @@
 
 #### 点击 SERVICE DISCOVERY
 
-![service discovery](site/service discovery.png)
+![service discovery](site/service_discovery.png)
 
 #### CONNECT & DISCOVERY SERVICE
 
-![connect and discovery](site/connect and discovery.png)
+![connect and discovery](site/connect_and_discovery.png)
 
 #### 根据开发文档选择 Characteristic
 
-![select characteristic](site/select characteristic.png)
+![select characteristic](site/select_characteristic.png)
 
 #### CONNECT
 
-![connect characteristic](site/connect characteristic.png)
+![connect characteristic](site/connect_characteristic.png)
 
 #### READ
 
