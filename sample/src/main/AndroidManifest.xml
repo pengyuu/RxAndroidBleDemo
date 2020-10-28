@@ -12,6 +12,7 @@
         android:theme="@style/AppTheme">
         <activity
             android:name="com.polidea.rxandroidble2.sample.example1_scanning.ScanActivity"
+            android:exported="true"
             android:label="@string/title_example1">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
